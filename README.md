@@ -1,4 +1,4 @@
-# Exp-1 LIBRARY MANAGEMENT SYSTEM
+# Exp-2 LIBRARY MANAGEMENT SYSTEM
 
 # AIM:
 To study the problem statement SRS document and draw all the UML diagram of Library management system.
@@ -34,6 +34,10 @@ PACKAGE DIAGRAM:
 
 SEQUENCIAL DIAGRAM:
 ![image](https://github.com/user-attachments/assets/06318fd1-03b7-4560-9ccd-7e920eb5bc52)
+
+ACTIVITY DIAGRAM:
+
+![image](https://github.com/user-attachments/assets/dcddd7f1-e343-4319-9040-3ab1ff68df4d)
 
 
 COMMUNICATION DIAGRAM:
